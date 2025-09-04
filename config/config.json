@@ -1,0 +1,9 @@
+{
+  "amap_key": "20220808af1c658565b70cc69d8084da",
+  "ip_url" : "https://api.ipify.org",
+  "ip_location_url" : "https://restapi.amap.com/v3/ip",
+  "file_list" : "data/known_faces/face_list.txt",
+  "face_model" : "data/known_faces/trainer.yml",
+  "notification_url" : "1049109092@qq.com",
+  "notification_chat_id" : "cfnqutqtuykebfjd"
+}
